@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/s/code/c++/stl_speechContest-system/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/project.dir/contestSystem.cpp.o -c /home/s/code/c++/stl_speechContest-system/contestSystem.cpp",
+  "file": "/home/s/code/c++/stl_speechContest-system/contestSystem.cpp"
+},
+{
+  "directory": "/home/s/code/c++/stl_speechContest-system/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/project.dir/speechManager.cpp.o -c /home/s/code/c++/stl_speechContest-system/speechManager.cpp",
+  "file": "/home/s/code/c++/stl_speechContest-system/speechManager.cpp"
+}
+]

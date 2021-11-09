@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/project.dir/contestSystem.cpp.o CMakeFiles/project.dir/speechManager.cpp.o  -o project 

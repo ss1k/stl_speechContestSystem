@@ -1,0 +1,5 @@
+/home/s/code/c++/stl_speechContest-system/build/CMakeFiles/rebuild_cache.dir
+/home/s/code/c++/stl_speechContest-system/build/CMakeFiles/edit_cache.dir
+/home/s/code/c++/stl_speechContest-system/build/CMakeFiles/project.dir
+/home/s/code/c++/stl_speechContest-system/build/CMakeFiles/package_source.dir
+/home/s/code/c++/stl_speechContest-system/build/CMakeFiles/package.dir
